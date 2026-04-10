@@ -1,8 +1,8 @@
 <h1 align="center">Salut, moi c'est L0tyz 👋</h1>
 
 <h3 align="center">
-Je suis actuellement étudiant en électronique programmable, <br>
-ce qui signifie que je passe la majeure partie de mon temps à me demander pourquoi mon code ne marche pas... <br>
+Je suis actuellement étudiant en électronique programmable, ce qui signifie <br>
+que je passe la majeure partie de mon temps à me demander pourquoi mon code ne marche pas... <br>
 avant de réaliser que j'avais juste oublié de brancher la masse. 🔌  
 </h3>
 
