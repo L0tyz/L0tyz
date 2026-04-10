@@ -48,15 +48,6 @@ Je suis du genre à ouvrir 4 projets en même temps, dans 4 langages différents
 
 ---
 
-## 📊 Stats GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=l0tyz&show_icons=true&locale=en&theme=tokyonight" alt="l0tyz" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l0tyz&layout=compact&theme=tokyonight" alt="top langs" />
-</p>
-
----
-
 ## 📬 Me joindre
 
 <p align="left">
