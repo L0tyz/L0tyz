@@ -2,8 +2,8 @@
 
 <h3 align="center">
 Je suis actuellement étudiant en électronique programmable, ce qui signifie <br>
-que je passe la majeure partie de mon temps à me demander pourquoi mon code ne marche pas... <br>
-avant de réaliser que j'avais juste oublié de brancher la masse. 🔌  
+que je passe la majeure partie de mon temps à me demander pourquoi mon code ne marche pas <br>
+avant de réaliser que j'avais juste oublié de brancher la masse.   
 </h3>
 
 <p align="center">
