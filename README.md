@@ -26,11 +26,7 @@ Je suis du genre à ouvrir 4 projets en même temps, dans 4 langages différents
 > *"Je ne maîtrise pas tout, mais je touche à tout."*
 
 ---
-
-## 🔭 Projets en cours
-
-- 🎬 [Loading Screen - End of Watch](https://github.com/L0tyz/LoadingScreen-EOW) — Un loading screen FiveM basique mais efficace (d'autre script sur mon profile qui vont surement pas fonctionner pour vous mais ce sera fix)
-- Encore plus de script 
+[![GitHub Streak](https://streak-stats.demolab.com?user=L0tyz%20&theme=material-palenight&locale=fr)](https://git.io/streak-stats)
 ---
 
 ## 🛠️ Langages & Outils
