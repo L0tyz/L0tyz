@@ -26,7 +26,9 @@ Je suis du genre à ouvrir 4 projets en même temps, dans 4 langages différents
 > *"Je ne maîtrise pas tout, mais je touche à tout."*
 
 ---
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=L0tyz%20&theme=material-palenight&locale=fr)](https://git.io/streak-stats)
+</div>
 ---
 
 ## 🛠️ Langages & Outils
