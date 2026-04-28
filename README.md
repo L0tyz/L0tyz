@@ -26,6 +26,11 @@ Je suis du genre à ouvrir 4 projets en même temps, dans 4 langages différents
 > *"Je ne maîtrise pas tout, mais je touche à tout."*
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L0tyz/L0tyz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L0tyz/L0tyz/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/L0tyz/L0tyz/output/github-snake.svg" />
+</picture>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=L0tyz%20&theme=material-palenight&locale=fr)](https://git.io/streak-stats)
 
