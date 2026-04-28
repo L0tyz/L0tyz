@@ -32,7 +32,7 @@ Je suis du genre à ouvrir 4 projets en même temps, dans 4 langages différents
   <img alt="github-snake" src="https://raw.githubusercontent.com/L0tyz/L0tyz/output/github-snake.svg" />
 </picture>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=L0tyz%20&theme=material-palenight&locale=fr)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=L0tyz&theme=material-palenight&locale=fr)](https://git.io/streak-stats)
 
 ![L0tyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=L0tyz&show_icons=true&theme=material-palenight)
 
