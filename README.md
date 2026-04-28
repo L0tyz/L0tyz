@@ -1,3 +1,4 @@
+
 <h1 align="center">Salut, moi c'est L0tyz 👋</h1>
 
 <h3 align="center">
@@ -26,17 +27,22 @@ Je suis du genre à ouvrir 4 projets en même temps, dans 4 langages différents
 > *"Je ne maîtrise pas tout, mais je touche à tout."*
 
 ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L0tyz/L0tyz/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L0tyz/L0tyz/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/L0tyz/L0tyz/output/github-snake.svg" />
 </picture>
+<p align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=L0tyz&theme=material-palenight&locale=fr)](https://git.io/streak-stats)
 
 ![L0tyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=L0tyz&show_icons=true&theme=material-palenight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0tyz&layout=compact&theme=material-palenight)
+
+
+</p>
 
 ---
 
@@ -51,8 +57,7 @@ Je suis du genre à ouvrir 4 projets en même temps, dans 4 langages différents
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.lua.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
-</a>
+  <a href="https://www.lua.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/></a>
 </p>
 
 ---
