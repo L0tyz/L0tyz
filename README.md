@@ -35,7 +35,7 @@ Je suis du genre à ouvrir 4 projets en même temps, dans 4 langages différents
 </picture>
 <p align="center">
   
-![[GitHub Streak](https://streak-stats.demolab.com?user=L0tyz&theme=material-palenight&locale=fr)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=L0tyz&theme=material-palenight&locale=fr)](https://git.io/streak-stats)
 ![L0tyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=L0tyz&show_icons=true&theme=material-palenight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0tyz&layout=compact&theme=material-palenight)
 
